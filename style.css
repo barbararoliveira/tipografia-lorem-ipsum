@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&family=Rye&family=Seaweed+Script&display=swap');
+
+body {
+     background-color: black;
+     color: whitesmoke;
+}
+
+h1 {
+    background-color: brown;
+    color: whitesmoke;
+    font-family: 'Fredericka the Great';
+    text-shadow: 5px 5px 0 black;
+    text-align: center;
+    font-size: 50px;
+}
+h2, h3, h4 {
+    color: brown;
+    text-shadow: 2px 2px 0 rgb(0, 0, 65);
+    font-family: 'Rye';
+    font-size: 40px;
+}
+
+p {
+   text-align: justify;
+   font-family: 'Lobster Two' ;
+   font-size: 30px;
+}
+
+ul {
+    background-color:  rgba(0, 0, 65, 0.479) ;
+    font-family: 'Seaweed Script';
+    font-size: 25px;
+    font-style: italic;
+}
+
+ol {
+    background-color:  rgba(0, 0, 65, 0.479) ;
+    font-family: 'Seaweed Script';
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: overline;
+}
